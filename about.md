@@ -3,16 +3,17 @@ layout: page
 title: About
 permalink: /about/
 ---
+# Sobre
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Atualmente concluindo o último ano do ensino médio, meu nome é Lívia Viana e planejo seguir com os estudos me graduando em Engenharia de Software.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Tenho 16 anos, sou de Brasília, e pretendo crescer e me desenvolver na carreira de desenvolvimento de programas e softwares.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+# Experiência Profissional
+
+Atualmente, não conto com experiência no mercado de trabalho.
 
 
-[jekyll-organization]: https://github.com/jekyll
+# Contato
+
+Email: liviavianap@gmail.com

@@ -14,3 +14,5 @@ Link para o [Respositório no GitHub](https://github.com/liviavianac/banco_de_qu
 # Detalhes do projeto
 
 - Usando o DBeaver para criar o banco de dados
+
+![Águas](assets/images/Águas-Claras.jpg)

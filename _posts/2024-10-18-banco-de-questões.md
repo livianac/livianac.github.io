@@ -11,3 +11,6 @@ Por meio de uma tabela no DBeaver, que organiza os dados das questões e suas re
 
 Link para o [Respositório no GitHub](https://github.com/liviavianac/banco_de_questoes.git)
 
+# Detalhes do projeto
+
+- Usando o DBeaver para criar o banco de dados

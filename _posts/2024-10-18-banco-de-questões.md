@@ -29,7 +29,7 @@ Um dos comandos utilizados foi o de _criar tabela_
   
   No PyCharm, nós somos capazes de inserir as nossas respostas para uma pergunta, e os comandos fazem com que o texto inserido seja comparado com o texto da tabela, e imprime mensagens caso a resposta esteja correta, ou seja, a resposta inserida é igual à resposta presente na tabela, ou errada, quando as respostas diferem uma da outra.
   
-  Isso pode ser feito por meio do código:
+Isso pode ser feito por meio do código:
 
       def main():
       db = Database()

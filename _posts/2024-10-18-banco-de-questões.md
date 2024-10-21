@@ -9,5 +9,4 @@ Seu funcionamento consiste numa interligação entre o banco de dados configurad
 Por meio de uma tabela no DBeaver, que organiza os dados das questões e suas respectivas respostas, o projeto permite que elas sejam diretamente respondidas pelo PyCharm, indicando também caso a resposta dele esteja correta ou não, permitindo mais de uma tentativa.
 
 
-Link para o repositório no GitHub:
-[Python Documentation](https://github.com/liviavianac/banco_de_questoes.git)
+Link para o [Respositório no GitHub](https://github.com/liviavianac/banco_de_questoes.git)

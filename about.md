@@ -7,6 +7,8 @@ Atualmente concluindo o último ano do ensino médio, meu nome é Lívia Viana e
 
 Tenho 16 anos, sou de Brasília, e pretendo crescer e me desenvolver na carreira de desenvolvimento de programas e softwares.
 
+Idiomas: Inglês (médio-avançado) | Alemão (iniciante)
+
 # Experiência Profissional
 
 No momento, não conto com experiência no mercado de trabalho.

@@ -11,4 +11,3 @@ Por meio de uma tabela no DBeaver, que organiza os dados das questões e suas re
 
 Link para o [Respositório no GitHub](https://github.com/liviavianac/banco_de_questoes.git)
 
-# Galeria

@@ -2,7 +2,7 @@
 layout: post
 ---
 
-O projeto consiste na criação de um banco de questões usando plataformas como o DBeaver e o Pycharm, e programado em python.
+O projeto consiste na criação de um banco de questões usando plataformas como o DBeaver e o Pycharm, e programado em Python.
 Ele tem como objetivo permitir que o usuário resolva questões dos mais diversos assuntos, testando seus conhecimentos.
 
 Link para o [Respositório no GitHub](https://github.com/liviavianac/banco_de_questoes.git)

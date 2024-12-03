@@ -17,4 +17,4 @@ No momento, não conto com experiência no mercado de trabalho.
 # Contato
 
 Email: liviavianap@gmail.com
-GitHub: [liviavianac](https://github.com/liviavianac)
+GitHub: [livianac](https://github.com/livianac)

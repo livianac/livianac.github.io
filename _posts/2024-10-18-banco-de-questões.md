@@ -44,3 +44,6 @@ Isso pode ser feito por meio do código:
                     acertou = True
                 else:
                     print("Errado! Tente novamente.\n")
+
+D: eita pega
+  if oi blz = sim, tá bom
